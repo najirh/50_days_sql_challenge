@@ -1,4 +1,4 @@
--- Day 06/50 SQL Challenge
+-- Day 16/50 SQL Challenge
 
 
 DROP TABLE IF EXISTS employees;
